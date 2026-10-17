@@ -2,10 +2,10 @@
 
 ## FACULTAD DE INGENIERÍA EN ELECTRICIDAD Y COMPUTACIÓN
 
-**Fecha:** 16 de octubre de 2026.  
-**Materia:** Desarrollo de Aplicaciones Web y Móviles.
-**Código:** SOFG1006.
-**Proyecto:** Proyecto 02: Explorando la cultura en la web.  
+**Fecha:** 16 de octubre de 2026.<br>
+**Materia:** Desarrollo de Aplicaciones Web y Móviles.<br>
+**Código:** SOFG1006.<br>
+**Proyecto:** Proyecto 02: Explorando la cultura en la web.<br><br>  
 **Estudiantes:** María Daniela Bozza Villacís y Paola Isabel Reyes Granados.  
 
 ## Contenido
@@ -32,13 +32,13 @@ El Festivanimal es una actividad social enfocada en el bienestar de las mascotas
 * **Lugar donde se desarrolla:** Cancha de la Federación Ecuatoriana de Béisbol, detrás del Parque de la Kennedy, Guayaquil.
 * **Fecha de la entrevista:** 04 de octubre de 2026.
 #### 1. Caracterización de la actividad
-* **¿En qué consiste la actividad?**
+* **¿En qué consiste la actividad?** <br>
 Es un evento comunitario dirigido a las mascotas y sus familias que reúne concursos, actividades recreativas, demostraciones, adopciones, emprendimientos, música y espacios de entretenimiento.
-* **¿Dónde se desarrolla?**
+* **¿Dónde se desarrolla?** <br>
 Se desarrolla en la cancha de la Federación Ecuatoriana de Béisbol, ubicada detrás del Parque de la Kennedy, en Guayaquil.
-* **¿A qué personas o grupos de la comunidad involucra?**
+* **¿A qué personas o grupos de la comunidad involucra?** <br>
 Involucra principalmente a personas con mascotas, familias, rescatistas y fundaciones de animales. Además, de emprendedores, servicios para mascotas y personas interesadas en la adopción responsable.
-* **¿Por qué resulta relevante o interesante para la comunidad?**
+* **¿Por qué resulta relevante o interesante para la comunidad?** <br>
 Porque genera un espacio de convivencia entre personas y mascotas, promueve la adopción y el cuidado responsable de los animales y permite que emprendimientos y organizaciones relacionadas con el bienestar animal se den a conocer.
 #### 2. Datos generales de la persona entrevistada
 * **Nombre o seudónimo (opcional):** ____________________
