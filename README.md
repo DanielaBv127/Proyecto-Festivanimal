@@ -1,3 +1,25 @@
+# ESCUELA SUPERIOR POLITÉCNICA DEL LITORAL
+
+## FACULTAD DE INGENIERÍA EN ELECTRICIDAD Y COMPUTACIÓN
+
+**Fecha:** 16 de octubre de 2026.  
+**Materia:** Desarrollo de Aplicaciones Web y Móviles.
+**Código:** SOFG1006.
+**Proyecto:** Proyecto 02: Explorando la cultura en la web.  
+**Estudiantes:** María Daniela Bozza Villacís y Paola Isabel Reyes Granados.  
+
+## Contenido
+1. [Análisis](#análisis)
+2. [Diseño](#diseño)
+3. [Planificación](#planificación)
+4. [Organización](#organización)
+5. [Selección](#selección)
+6. [Implementación](#implementación)
+7. [Despliegue](#despliegue)
+8. [Bibliografía](#bibliografía)
+
+---
+
 <h1 align="center">Proyecto Festivanimal</h1>
 
 # Análisis
