@@ -81,7 +81,44 @@ Antes de iniciar, informe a la persona sobre el propósito académico de la entr
 
 # Planificación
 # Organización
-# Selección
-# Implementación
-# Despliegue
-# Bibliografía
+<table>
+  <tr>
+    <th width="20%">Sección</th>
+    <th width="35%">Propósito</th>
+    <th width="45%">Datos que se presentarán</th>
+  </tr>
+  <tr>
+    <td><b>Inicio</b></td>
+    <td>Presentar el evento y captar la atención del visitante.</td>
+    <td>Nombre del evento, descripción, lugar, fechas y botón de llamada a la acción.</td>
+  </tr>
+  <tr>
+    <td><b>Actividades</b></td>
+    <td>Mostrar lo que se puede hacer en el evento.</td>
+    <td>Concursos de mascotas, juegos, música, demostraciones, sorteos y regalos para los asistentes.</td>
+  </tr>
+  <tr>
+    <td><b>Servicios</b></td>
+    <td>Informar sobre el bienestar de las mascotas, un aspecto muy valorado por los entrevistados.</td>
+    <td>Consulta ambulatoria, vacunación, antiparasitarios, limpieza de oídos, corte de uñas, desparasitación y vitaminas gratis.</td>
+  </tr>
+  <tr>
+    <td><b>Alianzas</b></td>
+    <td>Dar visibilidad a las fundaciones, rescatistas, emprendedores y marcas que participan, fomentando la adopción responsable y apoyando la economía local.</td>
+    <td>Fundaciones y adopciones responsables, emprendimientos, marcas pet friendly y productos para mascotas, tales como alimentos, accesorios y artículos de cuidado.</td>
+  </tr>
+  <tr>
+    <td><b>Experiencias</b></td>
+    <td>Mostrar la experiencia real de quienes participaron, para generar confianza.</td>
+    <td>Citas breves de los entrevistados, calificación de la experiencia, principales dificultades y sugerencias.</td>
+  </tr>
+  <tr>
+    <td><b>Contacto</b></td>
+    <td>Permitir que los interesados se comuniquen o sigan al evento.</td>
+    <td>Enlaces a redes sociales, correo o formulario de contacto. </td>
+  </tr>
+</table>
+<h1>Selección</h1>
+<h1>Implementación</h1>
+<h1>Despliegue</h1>
+<h1>Bibliografía</h1>
