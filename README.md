@@ -80,6 +80,14 @@ Porque genera un espacio de convivencia entre personas y mascotas, promueve la a
 Antes de iniciar, informe a la persona sobre el propósito académico de la entrevista y solicite su consentimiento para participar. No publique nombres, fotografías, grabaciones ni información personal sin autorización.
 
 # Planificación
+- [Entrevista 1](https://drive.google.com/file/d/1I5SlE11ymkaDZMTI0bhIFtZtx7zoEzXs/view?usp=sharing)
+- [Entrevista 2](https://drive.google.com/file/d/15JjzkUR2UDsP78bHL-keKoncCWU1Ssuh/view?usp=sharing)
+- [Entrevista 3](https://drive.google.com/file/d/1D9UVHJjuZI3jnkH9gICpGhZ-DIuxn_4v/view?usp=sharing)
+- [Entrevista 4](https://drive.google.com/file/d/1zTBtWMlbWWZu7pxlatBMdTwUxHprtlhx/view?usp=sharing)
+- [Entrevista 5](https://drive.google.com/file/d/1SJqKLOi4Ih5MKggBrpGJfSwHb3pxeGL9/view?usp=sharing)
+- [Entrevista 6](https://drive.google.com/file/d/1iOgLNwdx33dfUDEy7PqUHLSlJLVm1HLo/view?usp=sharing)
+- [Entrevista 7](https://drive.google.com/file/d/1G05feJlvfPLz888NGDAswOMOUu6tNXoA/view?usp=sharing)
+  
 # Organización
 <table>
   <tr>
