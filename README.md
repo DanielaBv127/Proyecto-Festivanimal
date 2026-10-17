@@ -119,6 +119,54 @@ Antes de iniciar, informe a la persona sobre el propósito académico de la entr
   </tr>
 </table>
 <h1>Selección</h1>
+<table>
+  <tr>
+    <th width="16%">Criterio</th>
+    <th width="28%"><a href="https://html5up.net/helios">Helios</a></th>
+    <th width="27%"><a href="https://html5up.net/dopetrope">Dopetrope</a></th>
+    <th width="29%"><a href="https://html5up.net/massively">Massively</a></th>
+  </tr>
+  <tr>
+    <td><b>Estructura</b></td>
+    <td>Un sitio con varias secciones y un carrusel de imágenes debajo de la portada.</td>
+    <td>Muy parecido a Helios, tiene varias secciones con bloques de contenido, pero sin carrusel.</td>
+    <td>Diseño de blog, posee una portada de bienvenida, un artículo destacado y una lista de artículos.</td>
+  </tr>
+  <tr>
+    <td><b>Navegación</b></td>
+    <td>Menú superior con desplegables que lleva a otras páginas.</td>
+    <td>Menú superior con desplegables que lleva a otras páginas.</td>
+    <td>Menú superior con pocas páginas e iconos de redes sociales, con portada de bienvenida desaparece al bajar.</td>
+  </tr>
+  <tr>
+    <td><b>Diseño</b></td>
+    <td>Limpio y moderno, con una portada grande.</td>
+    <td>Plano y minimalista, con tarjetas de contenido.</td>
+    <td>Muy visual, con una imagen de fondo grande y efectos de desplazamiento.</td>
+  </tr>
+  <tr>
+    <td><b>Adaptabilidad</b></td>
+    <td>Se ajusta a computador, tablet y celular.</td>
+    <td>Se ajusta a computador, tablet y celular.</td>
+    <td>Se ajusta a computador, tablet y celular.</td>
+  </tr>
+  <tr>
+    <td><b>Facilidad de personalización</b></td>
+    <td>Alta, debido a que hay secciones repetibles con imagen y texto, fáciles de cambiar.</td>
+    <td>Alta, porque usa tarjetas repetibles fáciles de cambiar y casi no tiene efectos.</td>
+    <td>Media, dado que depende de efectos que complican los cambios.</td>
+  </tr>
+  <tr>
+    <td><b>Ajuste al proyecto</b></td>
+    <td>Muy bueno, porque encaja con 6 secciones que planteamos en la sección Organización.</td>
+    <td>Bueno, sirve para varias secciones pero con menos impacto visual.</td>
+    <td>Regular, ya que está pensada para textos largos y el evento necesita más contenido visual.</td>
+  </tr>
+</table>
+
+### Plantilla seleccionada: Helios
+Se eligió Helios por su facilidad de personalización, su diseño limpio y moderno. La estructura de su carrusel ya que permite mostrar varias fotos de las mascotas y las actividades en un solo lugar. Esto la hace ideal para la landing page de un evento con las 6 secciones: Inicio, Actividades, Servicios, Alianzas, Experiencia y Contacto.
+
 <h1>Implementación</h1>
 <h1>Despliegue</h1>
 <h1>Bibliografía</h1>
