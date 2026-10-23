@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("fontawesome-all.min.css");
-
+@font-face {
+    font-family: 'Matcha Mint';
+    src: url('../webfonts/Matcha Mint.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 /*
 	Helios by HTML5 UP
 	html5up.net | @ajlkn
@@ -2176,7 +2181,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/portada.jpg");
+		background-image:linear-gradient(rgba(14, 1, 1, 0.549), rgba(14, 1, 1, 0.549)),  url("../../images/portada.webp");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2206,14 +2211,18 @@ input, select, textarea {
 		}
 
 			#header header > p {
+				color: #fff;
 				font-size: 1.25em;
 				margin: 0;
+				-webkit-text-stroke: #ffffff 1px;
 			}
 
 		#header h1 {
-			color: #fff;
-			font-size: 3em;
+			color: #ff0077;
+			font-family: "Matcha Mint", sans-serif;
+			font-size: 4em;
 			line-height: 1em;
+			-webkit-text-stroke: #fff 3px;
 		}
 
 			#header h1 a {
@@ -2221,6 +2230,7 @@ input, select, textarea {
 			}
 
 		#header .button {
+			background: #ff0077;
 			display: inline-block;
 			border-radius: 100%;
 			width: 4.5em;
