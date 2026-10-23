@@ -1761,7 +1761,7 @@ input, select, textarea {
 	}
 
 	header {
-		margin: 0 0 1em 0;
+		margin: 0 0 0.5em 0;
 	}
 
 		header > p {
@@ -2176,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/portada.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2589,11 +2589,13 @@ input, select, textarea {
 
 		.carousel article {
 			display: inline-block;
+			vertical-align: top;
 			width: 18em;
+			height: 23em;
 			background: #fff;
 			text-align: center;
-			padding: 0 1em 3em 1em;
-			margin: 0 2em 0 0;
+			padding: 0 1em 1em 1em;
+			margin: 0 1em 0 0;
 			white-space: normal;
 			opacity: 1.0;
 			-moz-transition: opacity 0.75s ease-in-out;
@@ -2608,15 +2610,25 @@ input, select, textarea {
 
 			.carousel article .image {
 				position: relative;
-				left: -1em;
-				top: 0;
-				width: auto;
-				margin-right: -2em;
-				margin-bottom: 3em;
+				height: 12em;
+				width: 100%;
+				margin-top: 1.5em;
+				margin-bottom: 1.5em;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			.carousel article .image img {
+				max-height: 100%;
+				max-width: 100%;
+				object-fit: contain;
 			}
 
 			.carousel article p {
 				text-align: center;
+				height: 4em;
+				padding-top: 0em;
+				box-sizing: border-box;
 			}
 
 /* Wide */
