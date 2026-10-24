@@ -176,5 +176,34 @@ Antes de iniciar, informe a la persona sobre el propósito académico de la entr
 Se eligió Helios por su facilidad de personalización, su diseño limpio y moderno. La estructura de su carrusel ya que permite mostrar varias fotos de las mascotas y las actividades en un solo lugar. Esto la hace ideal para la landing page de un evento con las 6 secciones: Inicio, Actividades, Servicios, Alianzas, Experiencia y Contacto.
 
 <h1>Implementación</h1>
+
+<h2>Personalización del HTML</h2>
+
+Se partió de la plantilla Helios y se reemplazó el contenido de demostración por la información real de Festivanimal, manteniendo una estructura semántica (header, nav, article, section, footer) y una jerarquía coherente (h1, h2, h3).
+
+En `index.html` se añadieron el eslogan del evento, un banner de bienvenida y un carrusel con 13 marcas aliadas, cada una con su logo y eslogan. También se incluyeron la sección "Nuestra Historia" y "¿Qué encontrarás en Festivanimal?", que resume los ejes del evento: adopción responsable, apoyo a emprendedores y fundaciones, y experiencia familiar.
+
+En `actividades.html` se describieron los concursos tales como Guayaquil Tiene Talento, Bailando con tu Peludito, El Rescatadito Guayaquileño más Guapo y dinámicas con marcas aliadas, adaptando la imagen de Don Dog para verse completa sin recortes. En la barra lateral se alinearon el título y la descripción con la cuadrícula general y se unificó el tamaño de las miniaturas para que no se deformen. 
+
+En `servicios.html` se estructuró la información de la brigada veterinaria gratuita en una lista continua con atenciones como consulta ambulatoria, vacunación, desparasitación y vitaminas. En la parte inferior, se nivelaron las tres columnas temáticas con altura uniforme y textos centrados para mostrar infografías y fotos completas.
+
+En `experiencias.html` se documentaron las siete entrevistas realizadas durante la jornada del 4 de octubre de 2026, recopilando testimonios y vivencias de asistentes, rescatistas y participantes. El contenido se organizó en bloques de lectura claros y accesibles que reflejan el impacto social del festival.
+
+En todas las páginas se actualizó el menú de navegación y el pie de página, que incluye mapa de ubicación, galería de fotos y enlaces a Facebook, Instagram y correo.
+
+Los cambios se registraron con commits descriptivos, por ejemplo: `feat: actualizar diseño de portada y añadir secciones`, `feat: actualizar la sección de experiencias con datos de las entrevistas` y `refactor(nav): eliminar menú desplegable no utilizado`.
+
+<h2>Personalización del diseño CSS</h2>
+
+Los cambios visuales se hicieron en `assets/css/main.css`, sobre los selectores de la plantilla:
+
+- **Tipografía:** se cargó la fuente local *Matcha Mint* con `@font-face` y se aplicó al logo `#header h1`, con tamaño de `4em`, para darle un carácter lúdico acorde a un evento de mascotas.
+- **Colores:** el título y el botón "Empezar" (`#header h1`, `#header .button`) usan el rosa `#ff0077` como color de marca, y el título lleva contorno blanco para mejorar el contraste.
+- **Fondo:** en `#header` se cambió la imagen de portada por `portada.webp` y se agregó un degradado oscuro encima para que el texto se lea bien.
+- **Carrusel:** en `.carousel article` y sus elementos internos se fijó un tamaño uniforme para las tarjetas y se ajustaron las imágenes con `object-fit: contain`, de modo que los logos se vean completos.
+- **Espaciados:** se redujeron los márgenes de `header` (de `1em` a `0.5em`) y de `.image.featured` (de `4em` a `2em`) para compactar el contenido.
+
+Estos cambios se registraron con commits descriptivos, por ejemplo: `feat: ajustar diseño del carrusel y añadir imagen de portada` y `style: ajustar alineacion vertical de items y proporciones de las imágenes`.
+
 <h1>Despliegue</h1>
 <h1>Bibliografía</h1>
