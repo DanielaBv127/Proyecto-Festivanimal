@@ -206,4 +206,16 @@ Los cambios visuales se hicieron en `assets/css/main.css`, sobre los selectores 
 Estos cambios se registraron con commits descriptivos, por ejemplo: `feat: ajustar diseño del carrusel y añadir imagen de portada` y `style: ajustar alineacion vertical de items y proporciones de las imágenes`.
 
 <h1>Despliegue</h1>
+
+*Sitio publicado:* [URL de GitHub Pages](https://danielabv127.github.io/Proyecto-Festivanimal/)
+
+Al acceder a la URL se comprobó que los estilos, la fuente, las imágenes, el carrusel, los enlaces y el mapa funcionaran correctamente.
+
 <h1>Bibliografía</h1>
+<ul>
+  <li>Font Awesome. (s. f.). <i>Font Awesome Free</i>. https://fontawesome.com</li>
+  <li>GitHub. (s. f.). <i>GitHub Pages documentation</i>. https://docs.github.com/pages</li>
+  <li>Google Fonts. (s. f.). <i>Source Sans Pro</i>. https://fonts.google.com</li>
+  <li>HTML5 UP. (s. f.). <i>Helios</i>. https://html5up.net/helios</li>
+  <li>Khurasan. (2020). <i>Matcha Mint</i>. DaFont. https://www.dafont.com/es/matcha-mint.font</li>
+</ul>
