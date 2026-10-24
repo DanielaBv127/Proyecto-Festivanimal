@@ -88,7 +88,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f0f4f4;
+		background:   #dad9d9dc;
 		color: #5b5b5b;
 		font-size: 15pt;
 		line-height: 1.85em;
@@ -2470,13 +2470,13 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
+		background: #360125;
 		color: #fff;
 	}
 
 		#footer .icon.circled {
 			background: #fff;
-			color: #2b252c;
+			color: #360125;
 		}
 
 		#footer header {
