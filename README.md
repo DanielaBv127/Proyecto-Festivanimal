@@ -87,7 +87,9 @@ Antes de iniciar, informe a la persona sobre el propósito académico de la entr
 - [Entrevista 5](https://drive.google.com/file/d/1SJqKLOi4Ih5MKggBrpGJfSwHb3pxeGL9/view?usp=sharing)
 - [Entrevista 6](https://drive.google.com/file/d/1iOgLNwdx33dfUDEy7PqUHLSlJLVm1HLo/view?usp=sharing)
 - [Entrevista 7](https://drive.google.com/file/d/1G05feJlvfPLz888NGDAswOMOUu6tNXoA/view?usp=sharing)
-  
+
+El análisis de las entrevistas muestra que existe una relación entre el bienestar animal y la participación de la comunidad. Por un lado, los dueños de mascotas y las fundaciones dan importancia a la adopción responsable, la atención veterinaria preventiva y los espacios donde los animales puedan socializar. Por otro lado, los emprendedores buscan dar mayor visibilidad a sus productos. Además, los participantes resaltan la importancia de contar con información confiable sobre la tenencia responsable de mascotas para evitar la desinformación. Finalmente, señalan que hubo una buena organización frente a las condiciones climáticas y una difusión adecuada del evento.
+
 # Organización
 <table>
   <tr>
@@ -210,6 +212,9 @@ Estos cambios se registraron con commits descriptivos, por ejemplo: `feat: ajust
 *Sitio publicado:* [URL de GitHub Pages](https://danielabv127.github.io/Proyecto-Festivanimal/)
 
 Al acceder a la URL se comprobó que los estilos, la fuente, las imágenes, el carrusel, los enlaces y el mapa funcionaran correctamente.
+<h1>Documentación</h1>
+
+[Archivo PDF](https://drive.google.com/file/d/1YgKZym4rGvm8AI32PDa4oKqxFxz7un2c/view?usp=sharing)
 
 <h1>Bibliografía</h1>
 <ul>
