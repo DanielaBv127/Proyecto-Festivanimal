@@ -1940,7 +1940,7 @@ input, select, textarea {
 			}
 
 				ul.icons li a:hover {
-					color: #ef8376;
+					color: #e4026b;
 				}
 
 /* Form */
@@ -2060,7 +2060,7 @@ input, select, textarea {
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #ff0077;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2082,7 +2082,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #e4026b;
 		}
 
 		input[type="button"].alt,
